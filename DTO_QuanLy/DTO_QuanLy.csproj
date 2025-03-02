@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DTO_QuanLy</RootNamespace>
+    <AssemblyName>DTO_QuanLy</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus, Version=7.4.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\EPPlus.7.4.1\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.1.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\EPPlus.Interfaces.6.1.1\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.1.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\EPPlus.System.Drawing.6.1.1\lib\net462\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\GUI_QuanLy\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BTL_TQ5DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BTL_TQ5DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BTL_TQ5DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BTL_TQ5DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTO_ChiTietHoaDonBan.cs" />
+    <Compile Include="DTO_ChiTietHoaDonNhap.cs" />
+    <Compile Include="DTO_CongDung.cs" />
+    <Compile Include="DTO_CongViec.cs" />
+    <Compile Include="DTO_HangHoa.cs" />
+    <Compile Include="DTO_HinhKhoi.cs" />
+    <Compile Include="DTO_HoaDonBan.cs" />
+    <Compile Include="DTO_HoaDonNhap.cs" />
+    <Compile Include="DTO_HoaVan.cs" />
+    <Compile Include="DTO_KhachHang.cs" />
+    <Compile Include="DTO_KichThuoc.cs" />
+    <Compile Include="DTO_Loai.cs" />
+    <Compile Include="DTO_LoaiMen.cs" />
+    <Compile Include="DTO_MauSac.cs" />
+    <Compile Include="DTO_NhaCungCap.cs" />
+    <Compile Include="DTO_NhanVien.cs" />
+    <Compile Include="DTO_NuocSanXuat.cs" />
+    <Compile Include="DTO_Product.cs" />
+    <Compile Include="DTO_ReportDoanhThu.cs" />
+    <Compile Include="DTO_ReportHD.cs" />
+    <Compile Include="DTO_ReportHoaDon.cs" />
+    <Compile Include="DTO_ReportSanPham.cs" />
+    <Compile Include="DTO_TaiKhoan.cs" />
+    <Compile Include="HoaDon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HoaDon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet_DoanhThu.Designer.cs" />
+    <Compile Include="Reports\DataSet_HoaDon.Designer.cs" />
+    <Compile Include="Reports\DataSet_NhanVien.cs">
+      <DependentUpon>DataSet_NhanVien.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet_NhanVien.Designer.cs">
+      <DependentUpon>DataSet_NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\DataSet_SanPham.Designer.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BTL_TQ5DataSet.xsc">
+      <DependentUpon>BTL_TQ5DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BTL_TQ5DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BTL_TQ5DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BTL_TQ5DataSet.xss">
+      <DependentUpon>BTL_TQ5DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BTL_TQ5DataSet1.xsc">
+      <DependentUpon>BTL_TQ5DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BTL_TQ5DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BTL_TQ5DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BTL_TQ5DataSet1.xss">
+      <DependentUpon>BTL_TQ5DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HoaDon.xsc">
+      <DependentUpon>HoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="HoaDon.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HoaDon.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HoaDon.xss">
+      <DependentUpon>HoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reports\DataSet_DoanhThu.xsc">
+      <DependentUpon>DataSet_DoanhThu.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_DoanhThu.xsd" />
+    <None Include="Reports\DataSet_DoanhThu.xss">
+      <DependentUpon>DataSet_DoanhThu.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_HoaDon.xsc">
+      <DependentUpon>DataSet_HoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_HoaDon.xsd" />
+    <None Include="Reports\DataSet_HoaDon.xss">
+      <DependentUpon>DataSet_HoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_NhanVien.xsc">
+      <DependentUpon>DataSet_NhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_NhanVien.xsd" />
+    <None Include="Reports\DataSet_NhanVien.xss">
+      <DependentUpon>DataSet_NhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_SanPham.xsc">
+      <DependentUpon>DataSet_SanPham.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\DataSet_SanPham.xsd" />
+    <None Include="Reports\DataSet_SanPham.xss">
+      <DependentUpon>DataSet_SanPham.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\ReportHoaDon.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Reports\ReportNhanVien.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Reports\Report_DoanhThu.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Reports\Report_SanPham.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

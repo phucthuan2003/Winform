@@ -1,0 +1,667 @@
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\dundun\source\repos\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\Test\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\Test\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ1\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ1\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\Test\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\Test\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\cshasp\BTL_LTTQ1\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\Test\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\LTTQ\TEST\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EnvDTE.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\stdole.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\LTTQ\Fixes\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EnvDTE.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\stdole.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\BTL_LTTQ1 (1)\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\EnvDTE.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\stdole.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\github\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\github\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+D:\github\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\github\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\EnvDTE.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\stdole.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportHoaDon.rdlc
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportNhanVien.rdlc
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_DoanhThu.rdlc
+F:\WebProgram\BTL_LTTQ\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_SanPham.rdlc
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportHoaDon.rdlc
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportNhanVien.rdlc
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_DoanhThu.rdlc
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_SanPham.rdlc
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\EnvDTE.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\stdole.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+D:\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+D:\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+D:\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Reports\ReportHoaDon.rdlc
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Reports\ReportNhanVien.rdlc
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Reports\Report_DoanhThu.rdlc
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Reports\Report_SanPham.rdlc
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\EPPlus.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Buffers.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Memory.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\EnvDTE.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\stdole.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\EPPlus.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Buffers.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Memory.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\dundun\Documents\BTL_LTTQ_D\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll.config
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportHoaDon.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\ReportNhanVien.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_DoanhThu.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Reports\Report_SanPham.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll.config
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\EnvDTE.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\stdole.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Reports\ReportHoaDon.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Reports\ReportNhanVien.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Reports\Report_DoanhThu.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Reports\Report_SanPham.rdlc
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll.config
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\EPPlus.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\EPPlus.Interfaces.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\EPPlus.System.Drawing.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Buffers.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Memory.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\EnvDTE.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\stdole.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\EPPlus.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Buffers.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Memory.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Numerics.Vectors.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.Up2Date
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+F:\LTTQ\Nhom16\BTL_LTTQ\Winform\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb

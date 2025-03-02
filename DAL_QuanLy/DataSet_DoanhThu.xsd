@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_DoanhThu" targetNamespace="http://tempuri.org/DataSet_DoanhThu.xsd" xmlns:mstns="http://tempuri.org/DataSet_DoanhThu.xsd" xmlns="http://tempuri.org/DataSet_DoanhThu.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_DoanhThu" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet_DoanhThu" msprop:Generator_DataSetName="DataSet_DoanhThu">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DoanhThuTable" msprop:Generator_RowEvHandlerName="DoanhThuTableRowChangeEventHandler" msprop:Generator_RowDeletedName="DoanhThuTableRowDeleted" msprop:Generator_RowDeletingName="DoanhThuTableRowDeleting" msprop:Generator_RowEvArgName="DoanhThuTableRowChangeEvent" msprop:Generator_TablePropName="DoanhThuTable" msprop:Generator_RowChangedName="DoanhThuTableRowChanged" msprop:Generator_RowChangingName="DoanhThuTableRowChanging" msprop:Generator_TableClassName="DoanhThuTableDataTable" msprop:Generator_RowClassName="DoanhThuTableRow" msprop:Generator_TableVarName="tableDoanhThuTable" msprop:Generator_UserTableName="DoanhThuTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InvoiceNumber" msprop:Generator_ColumnPropNameInRow="InvoiceNumber" msprop:Generator_ColumnPropNameInTable="InvoiceNumberColumn" msprop:Generator_ColumnVarNameInTable="columnInvoiceNumber" msprop:Generator_UserColumnName="InvoiceNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="Revenue" msprop:Generator_ColumnPropNameInRow="Revenue" msprop:Generator_ColumnPropNameInTable="RevenueColumn" msprop:Generator_ColumnVarNameInTable="columnRevenue" msprop:Generator_UserColumnName="Revenue" type="xs:string" minOccurs="0" />
+              <xs:element name="SaleDate" msprop:Generator_ColumnPropNameInRow="SaleDate" msprop:Generator_ColumnPropNameInTable="SaleDateColumn" msprop:Generator_ColumnVarNameInTable="columnSaleDate" msprop:Generator_UserColumnName="SaleDate" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductCount" msprop:Generator_ColumnPropNameInRow="ProductCount" msprop:Generator_ColumnPropNameInTable="ProductCountColumn" msprop:Generator_ColumnVarNameInTable="columnProductCount" msprop:Generator_UserColumnName="ProductCount" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductCode" msprop:Generator_ColumnPropNameInRow="ProductCode" msprop:Generator_ColumnPropNameInTable="ProductCodeColumn" msprop:Generator_ColumnVarNameInTable="columnProductCode" msprop:Generator_UserColumnName="ProductCode" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductName" msprop:Generator_ColumnPropNameInRow="ProductName" msprop:Generator_ColumnPropNameInTable="ProductNameColumn" msprop:Generator_ColumnVarNameInTable="columnProductName" msprop:Generator_UserColumnName="ProductName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
